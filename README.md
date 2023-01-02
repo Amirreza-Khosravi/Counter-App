@@ -1,5 +1,7 @@
 # counter
 
+Counter App with BLOC
+
 A new Flutter project.
 
 ## Getting Started
